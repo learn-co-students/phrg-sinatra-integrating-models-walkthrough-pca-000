@@ -116,4 +116,8 @@ In our `results.erb` file, use erb tags to display the data stored in the `@anal
 ## Full MVC
 Congratulations! You've now created your first Sinatra app that uses a model, views, and a controller! You are taking user input in a form, sending it via params to the 'post' route where a new instance of the model is created using the data from the form. This instance is passed back to the view, where it is rendered using erb tags. Pat yourself on the back, this is a big milestone in your developer journey!
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-integrating-models-walkthrough/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-integrating-models-walkthrough/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Integrating Models Sinatra Code-along</p>
